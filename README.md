@@ -3,7 +3,7 @@
 **Dutch developers and business people**: this initiative is described in more detail on our [website gidsopenstandaarden.org](https://www.gidsopenstandaarden.org). The stories told on our [blog gidsopenstandaarden.nl](https://blog.gidsopenstandaarden.nl) reflect the complexity of all interests in the Dutch healthcare landscape. You can make yourself a member on our [LinkedIn GIDS Open Standaarden](https://www.linkedin.com/company/gidsopenstandaarden) to follow our development.
 
 **This GitHub provides software to enable shared functions**. In addition we provide code samples, test tools, relevant legal information and templates that help you to quickly implement the components in your software. Or help you implement our licensing policies easily as you make use of, or contribute to our project. 
-The goal of our (technical) documentation is to help you spend as little time as possible figuring out what the implementation means for your organization. If you find ways to save more time or to make this easier, please help us and contribute. Use our [Signpost](link) for more details on our current open source components:
+The goal of our (technical) documentation is to help you spend as little time as possible figuring out what the implementation means for your organization. If you find ways to save more time or to make this easier, please help us and contribute. Use our [Signpost](https://github.com/GIDSOpenStandaarden/Signpost) for more details on our current open source components:
 
 - SamenBeter Social Network Standard
 - Health Tools Interoperability
