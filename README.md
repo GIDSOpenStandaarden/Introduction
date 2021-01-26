@@ -12,4 +12,4 @@ The goal of our (technical) documentation is to help you spend as little time as
 
 **We actively partner with others** who develop complementary open source components. Specifically with the [Nuts community](https://github.com/nuts-foundation) who create a decentralized communication network for healthcare that enables fast, safe, and cost-effective medical data sharing. [IRMA](https://github.com/privacybydesign) who provide open source software to authenticate identities using attribute based authentication. And [SURF](https://github.com/SURFnet) who have inspired us. 
 
-**Questions or comments?** Send an email to info@gidsopenstandaarden.org 
+**Questions, comments or issues?** Send an email to info@gidsopenstandaarden.org or make an issue in the relevant repository and assign a member.
