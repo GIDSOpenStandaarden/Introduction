@@ -7,7 +7,7 @@ The goal of our (technical) documentation is to help you spend as little time as
 
 - Health Tools Interoperability
 - Social Network Standard
-- Security, legal documents and templates
+- Security, privacy, legal documents and templates
 - MedMij implementation building blocks
 
 **We actively partner with others** who develop complementary open source components. Specifically with the [Nuts community](https://github.com/nuts-foundation) who create a decentralized communication network for healthcare that enables fast, safe, and cost-effective medical data sharing. [IRMA](https://github.com/privacybydesign) who provide open source software to authenticate identities using attribute based authentication. [Solid](https://solidproject.org) who are using web standards to let people control their data, and choose the applications and services to use with it. [HL7/FHIR](https://github.com/HL7) who provide open standards for Healthcare Interoperability. And [SURF](https://github.com/SURFnet) who have inspired us.
